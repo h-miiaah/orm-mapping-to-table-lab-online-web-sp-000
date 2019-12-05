@@ -20,7 +20,7 @@ class Student
         grade TEXT
       )"
       SQL
-      
+
   end
 
 end
